@@ -10,3 +10,6 @@
 [submodule "query"]
 	path = query
 	url = git@github.com:ezeilo-su/query.git
+[submodule "fend"]
+	path = fend
+	url = git@github.com:ezeilo-su/fend.git
