@@ -1,0 +1,12 @@
+[submodule "posts"]
+	path = posts
+	url = git@github.com:ezeilo-su/posts.git
+[submodule "comments"]
+	path = comments
+	url = git@github.com:ezeilo-su/comments.git
+[submodule "event-bus"]
+	path = event-bus
+	url = git@github.com:ezeilo-su/event-bus.git
+[submodule "query"]
+	path = query
+	url = git@github.com:ezeilo-su/query.git
