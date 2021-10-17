@@ -13,3 +13,6 @@
 [submodule "fend"]
 	path = fend
 	url = git@github.com:ezeilo-su/fend.git
+[submodule "moderation"]
+	path = moderation
+	url = git@github.com:ezeilo-su/moderation.git
