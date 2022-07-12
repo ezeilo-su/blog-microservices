@@ -16,8 +16,6 @@ build:
         manual:
           - src: 'src/**/*.js'
             dest: .
-          - src: 'src/**/*.jsx'
-            dest: .
     - image: sundayezeilo/comments
       context: comments
       docker:
